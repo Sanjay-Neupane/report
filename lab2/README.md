@@ -16,7 +16,8 @@
     11. Plot pixels using putpixel at points (x,y) in specified colour. 
     12. Close Graph and stop. 
 # Output
-![DDA line OUTPUT](REPORT/lab2/lab2.png)
+![DDA line OUTPUT](report/lab2/lab2.png)
 # Conclusion
 IN the lab, WE do the basic drawing of line using the Digital Differential Algorithm and using the graphics.h header file.
+
 
