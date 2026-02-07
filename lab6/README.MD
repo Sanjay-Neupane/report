@@ -24,8 +24,8 @@
 # FORMULA
    If (x, y) are old coordinates of object, then new coordinates of object after applying rotation 
     transformation are obtained as: <br>
-        x’ = xcosθ -ysinθ 
-        y’ = xsinθ+ ycosθ 
+           x’ = xcosθ -ysinθ <br>
+           y’ = xsinθ+ ycosθ 
 
 # OUTPUT
 ![ROTATION PLOT](images/Rotation.png)
@@ -51,6 +51,7 @@
 
 # CONCLUSION
 In these lab, We successfully demostrated the concept of the transformation.
+
 
 
 
