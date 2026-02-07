@@ -6,7 +6,7 @@
         X’=x+tx 
         Y’=y+ty
 
-#OUTPUT
+# OUTPUT
 ![Translation plot](images/Translation.png)
 
 # Scaling
@@ -51,4 +51,5 @@
 
 # CONCLUSION
 In these lab, We successfully demostrated the concept of the transformation.
+
 
