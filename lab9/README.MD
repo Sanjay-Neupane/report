@@ -25,9 +25,10 @@
         9. Stop. 
 ## OUTPUT 
 
-![LINE CLIPPING PLOT](lab9/image/line clipping.png)
+![LINE CLIPPING PLOT](image/line_clipping.png)
 
 ## Conclusion
 In these lab, We successfully demonstrate the line clipping algorithm.
+
 
 
