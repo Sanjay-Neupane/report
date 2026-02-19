@@ -9,9 +9,7 @@
       3. Select the next pixel from the stack, and continue with step 2. 
 
 ## OUTPUT
-[BOUNDARY FILL VIDEO](output/Boundaryfill.mp4)
-<video src="output/Boundaryfill.mp4" controls width="600"></video>
-[![Boundary Fill Video](Boundaryfill.png)](Boundaryfill.mp4)
+[![Boundaryfill Screenshot](output/Boundaryfill.png)](output/Boundaryfill.mp4)
 
 
 # FLOOD FILL ALGORITHM
@@ -55,13 +53,13 @@
 
 ## OUTPUT
 [![Floodfill Screenshot](output/Floodfill.png)](output/Floodfill.mp4)
-[FLOOD FILL VIDEO](output/Floodfill.mp4)
-<video src="output/Floodfill.mp4" controls width="600"></video>
+
 
 
 
 ### CONCLUSION
 In these lab, we got to learn how the Boundary fill and flood fill algorithm works,how it fill the polygon.
+
 
 
 
