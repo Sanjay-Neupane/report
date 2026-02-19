@@ -1,5 +1,7 @@
 # Filling (Colouring) the Pictures 
+
 # FLOOD FILL ALGORITHM
+
 ##  Algorithm: 
  ### 4-connected approach: 
   1.   We can implement flood fill algorithm by using recursion. 
@@ -36,10 +38,14 @@
       flood(x + 1, y + 1, fill_col, old_col); 
       flood(x - 1, y - 1, fill_col, old_col); 
       flood(x - 1, y + 1, fill_col, old_col);
+
 ## OUTPUT
 [FLOOD FILL VIDEO](output/Floodfill.mp4)
 <video src="output/Floodfill.mp4" controls width="600"></video>
+[![Flood Fill Video](floodfill.png)](Floodfill.mp4)
+
 
 ### CONCLUSION
 IN these lab, we got to learn how the flood fill algorithm works,how it fill the polygon.
+
 
