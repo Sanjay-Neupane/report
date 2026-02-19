@@ -54,13 +54,15 @@
       flood(x - 1, y + 1, fill_col, old_col);
 
 ## OUTPUT
+[![Floodfill Screenshot](Floodfill.png)](demo/Floodfill.mp4)
 [FLOOD FILL VIDEO](output/Floodfill.mp4)
 <video src="output/Floodfill.mp4" controls width="600"></video>
-[![Flood Fill Video](floodfill.png)](Floodfill.mp4)
+
 
 
 ### CONCLUSION
 In these lab, we got to learn how the Boundary fill and flood fill algorithm works,how it fill the polygon.
+
 
 
 
