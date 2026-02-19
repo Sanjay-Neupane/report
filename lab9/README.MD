@@ -23,8 +23,10 @@
         7. Reject line segment if any end point of line appears outside of any boundary. 
         8. Draw the clipped line segment. 
         9. Stop. 
-##OUTPUT
+## OUTPUT 
+
 ![LINE CLIPPING PLOT](images/line clipping.png)
 
 ## Conclusion
 In these lab, We successfully demonstrate the line clipping algorithm.
+
