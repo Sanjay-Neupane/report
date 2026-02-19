@@ -1,5 +1,19 @@
 # Filling (Colouring) the Pictures 
 
+# BOUNDARY FILL ALGORITHM
+
+## Algorithm:
+      The following steps illustrate the idea of the recursive boundary-fill algorithm: 
+      1. Start from an interior point. 
+      2. If the current pixel is not already filled and if it is not an edge point, then set          the pixel with the fill color, and store its neighboring pixels (4 or 8-connected).         Store only neighboring pixel that is not already filled and is not an edge point. 
+      3. Select the next pixel from the stack, and continue with step 2. 
+
+## OUTPUT
+[BOUNDARY FILL VIDEO](output/Boundaryfill.mp4)
+<video src="output/Boundaryfill.mp4" controls width="600"></video>
+[![Boundary Fill Video](Boundaryfill.png)](Boundaryfill.mp4)
+
+
 # FLOOD FILL ALGORITHM
 
 ##  Algorithm: 
@@ -46,6 +60,7 @@
 
 
 ### CONCLUSION
-IN these lab, we got to learn how the flood fill algorithm works,how it fill the polygon.
+In these lab, we got to learn how the Boundary fill and flood fill algorithm works,how it fill the polygon.
+
 
 
